@@ -1,0 +1,11 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
+.hermes/
+mcp-tokens/
+*.log
+.DS_Store
+.coverage
+htmlcov/
